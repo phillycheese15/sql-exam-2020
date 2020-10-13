@@ -1,5 +1,7 @@
 # sql-exam-2020
 This is the sql exam for thinkful 2020
+
+
 Q1: 1. Write a query that allows you to inspect the schema of the naep table.
 Q2: 2.Continue to follow these conventions in this exam and beyond
 Q3: 3. Write a query that returns summary statistics for avg_math_4_score by state. Make sure to sort the results alphabetically by state name 
